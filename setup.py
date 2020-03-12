@@ -8,7 +8,7 @@ setup(
   author = 'Richard Hernandez',                   # Type in your name
   author_email = 'rhg101997@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/RHG101997/cLog',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/RHG101997/cLog/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['Color', 'terminal color', 'color text'],   # Keywords that define your package best
   install_requires=[
       ],
